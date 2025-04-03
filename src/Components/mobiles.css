@@ -1,0 +1,28 @@
+.m1{
+    display: flex;
+    margin-top: 10%;
+}
+.m2{
+    height:70%;
+    width:30%;
+ margin-left: 12%;
+ margin-top: 10%;
+}
+.m3{
+    height:10%;
+    width:40%;
+   background-color: blue;
+    margin-left: 5%;
+   
+}
+.button4{
+    margin-top: 5%;
+    background-color: white;
+    color: rgb(6, 6, 250);
+    border-radius: 20px;
+    border-color:rgb(6, 6, 250) ;
+    padding-left:  6%;
+    padding-right: 6%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

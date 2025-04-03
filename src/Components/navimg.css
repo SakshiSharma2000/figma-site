@@ -1,0 +1,31 @@
+.combo0{
+    display: flex;
+
+}
+.combo1{
+    height:70%;
+    width:30%;
+    position: static;
+  
+    margin-top: 15%;
+margin-left: 12%;
+}
+.combo2{
+    height:10%;
+    width:50%;
+   background-color: blue;
+    margin-left: 5%;
+    margin-top: 9%;
+}
+.button1{
+   background-color: rgb(66, 66, 248);
+border-color: rgb(66, 66, 248);
+margin-top: 4%;
+padding-left: 4%;
+   padding-right: 4%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   border-radius: 20px;
+   color: white;
+  
+}
